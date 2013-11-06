@@ -1,0 +1,1 @@
+Created post-it notes using object-oriented Javascript!  Post-its are created at the location of a mouse click.  They can be dragged to different locations in the browser, edited, and deleted.
